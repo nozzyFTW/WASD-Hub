@@ -1,0 +1,1 @@
+{"Team Check":true,"Aimbot":true,"Wallbang":true,"ESP":false,"Aim Part":"Random","Silent Aim":true,"Tracers":false,"Aim Key":"LeftShiftKeyboard"}
