@@ -12,4 +12,4 @@
 
 **3.** Once _Roblox_ is open, press Inject
 
-**4.** Once _WRD ADI_ has finished injecting, press Execute and __WASD HUB__ will be open
+**4.** Once _WRD API_ has finished injecting, press Execute and __WASD HUB__ will be open
